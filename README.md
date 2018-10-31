@@ -1,3 +1,3 @@
 # JQUERY PATTERN
 
-## Usage
+## Usages
