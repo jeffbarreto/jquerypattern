@@ -1,3 +1,6 @@
+// Copyright (c) 2019 Jefferson Barreto <jefferson.barreto@outlook.com>
+
+
 var mediator = (function (){
     var events = {};
 
